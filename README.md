@@ -85,11 +85,11 @@ AI, automation, and better ways to build.
 
 <div align="center">
 
-<a href="https://github.com/adeniyi-faith/RaffleKings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=RaffleKings&theme=tokyonight&hide_border=true" alt="RaffleKings"/></a>
-<a href="https://github.com/adeniyi-faith/project-1school"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=project-1school&theme=tokyonight&hide_border=true" alt="project-1school"/></a>
+<a href="https://github.com/adeniyi-faith/RaffleKings"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=RaffleKings&theme=tokyonight&hide_border=true&v=2" alt="RaffleKings"/></a>
+<a href="https://github.com/adeniyi-faith/project-1school"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=project-1school&theme=tokyonight&hide_border=true&v=2" alt="project-1school"/></a>
 
-<a href="https://github.com/adeniyi-faith/K-logistics-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=K-logistics-Hub&theme=tokyonight&hide_border=true" alt="K-logistics-Hub"/></a>
-<a href="https://github.com/adeniyi-faith/kounselia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=kounselia&theme=tokyonight&hide_border=true" alt="kounselia"/></a>
+<a href="https://github.com/adeniyi-faith/K-logistics-Hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=K-logistics-Hub&theme=tokyonight&hide_border=true&v=2" alt="K-logistics-Hub"/></a>
+<a href="https://github.com/adeniyi-faith/kounselia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=adeniyi-faith&repo=kounselia&theme=tokyonight&hide_border=true&v=2" alt="kounselia"/></a>
 
 </div>
 
@@ -112,5 +112,5 @@ AI, automation, and better ways to build.
 
 I'm open to **remote full-stack and fintech roles**, and to freelance projects through GetOnline Studio.
 
-[![Email](https://img.shields.io/badge/Email-mrfaithadeniyi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrfaithadeniyi@gmail.com)
+[![Email](https://img.shields.io/badge/Email-adeniyifth@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeniyifth@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GetOnline_Studio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_WEBSITE)
